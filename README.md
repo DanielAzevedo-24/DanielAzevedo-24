@@ -5,7 +5,7 @@
   Tenho interesse especial em **desenvolvimento web**, **aplicativos mobile** e **inteligência artificial**.
 
 - 🌱 **Aprendendo no momento:**  
-  Atualmente, estou me aprofundando em **.NET**, **C#** e **Ionic** para criar aplicações modernas e robustas.  
+  Atualmente, estou me aprofundando em **.NET**, **C#**, **Ionic** e **python** para criar aplicações modernas e robustas.  
   Também estou explorando **IA** e soluções baseadas em dados para decisões mais inteligentes.
 
 - 💞️ **Colaborando em:**  
@@ -14,14 +14,14 @@
 - 📫 **Como me encontrar:**  
   Você pode me encontrar em:  
   - [GitHub](https://github.com/DanielAzevedo-24)  
-  - [LinkedIn](https://linkedin.com/in/DanielAzevedo-24)  
-  - E-mail: `danielazevedo@example.com`
+  - [LinkedIn](https:(https://www.linkedin.com/in/daniel-pereira-azevedo/)
+  - E-mail: `Daniel.jspsp@gmail.com`
 
-- 😄 **Pronomes:** Ele/Dele  
+  
 
 - ⚡ **Curiosidade divertida:**  
   Acredito que código é como poesia—belo quando é simples, funcional e elegante!  
-  Ah, e consigo resolver um cubo mágico em menos de um minuto. 🧩  
+  
 
 ---
 
